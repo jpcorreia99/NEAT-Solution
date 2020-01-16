@@ -4,7 +4,7 @@ In this project, I apllied a genetic algorithm called **NEAT (NeuroEvolution of 
 This project was adapted and based on a tutorial by [TechWithTim](https://techwithtim.net).
 
 ## Contents
- - **[What's NEAT](#what's-nEAT)**
+ - **[What's NEAT](#whats-neat)**
     - [Genotypes And Phenotypes](#genotypes-and-phenotypes)
     - [Mutations](#mutations)
     - [Crossovers](#crossovers)
