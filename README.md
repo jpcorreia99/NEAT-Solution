@@ -1,7 +1,7 @@
 # NEAT Solution
 In this project, I apllied a genetic algorithm called **NEAT (NeuroEvolution of Augmenting Topologies)**, in order to find an efficient neural network who can play flappy bird.
 
-This project was adapted and based on a tutorial by [TechWithTim](https://techwithtim.net).
+This project was adapted and based on a previous project by [TechWithTim](https://techwithtim.net).
 
 ## Contents
  - **[What's NEAT](#whats-neat)**
